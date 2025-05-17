@@ -11,9 +11,17 @@ A passionate **XR Developer** from Bangladesh, focused on building immersive exp
 
 ### 🧑‍💻 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/md-akif-zaman-35740a162)  
-[![Facebook](https://img.shields.io/badge/Facebook-blue?style=flat&logo=facebook)](https://www.facebook.com/share/1FpN4L7G1K/)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:akifzaman4040@gmail.com)
+<div style="display: flex; justify-content: center; gap: 15px; align-items: center; margin-top: 8px;">
+  <a href="https://www.linkedin.com/in/md-akif-zaman-35740a162" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/share/1FpN4L7G1K/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=flat&logo=facebook" alt="Facebook" />
+  </a>
+  <a href="mailto:akifzaman4040@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
 
 ---
 
