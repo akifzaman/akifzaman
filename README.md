@@ -5,9 +5,9 @@
 
 A passionate engineer in XR23 from Bangladesh
 
-- 🔭 I’m currently working on Unity Projects (The repository `nuraia` already exists on this account.)
+- 🔭 I’m currently working on Unity Projects
 - 🌱 I’m currently learning GAN, AI
-- 📫 How to reach me: akifzaman@gmail.com
+- 📫 How to reach me: akifzaman4040@gmail.com
 
 ---
 
