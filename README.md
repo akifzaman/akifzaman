@@ -1,36 +1,37 @@
-
 # Hi there 👋
 
 ## Hi 👋, I'm Md. Akif Zaman
 
 A passionate engineer in XR23 from Bangladesh
 
-- 🔭 I’m currently working on Unity Projects
-- 🌱 I’m currently learning GAN, AI
-- 📫 How to reach me: akifzaman4040@gmail.com
+- 🔭 I’m currently working on Unity Projects  
+- 🌱 I’m currently learning GAN, AI  
+- 📫 How to reach me: akifzaman4040@gmail.com  
 
 ---
 
 ### 🧑‍💻 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/md-akif-zaman-35740a162)
-[![Facebook](https://img.shields.io/badge/Facebook-blue?style=flat&logo=facebook)](https://www.facebook.com/share/1FpN4L7G1K/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/md-akif-zaman-35740a162)  
+[![Facebook](https://img.shields.io/badge/Facebook-blue?style=flat&logo=facebook)](https://www.facebook.com/share/1FpN4L7G1K/)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:akifzaman4040@gmail.com)
+
 ---
 
 ### 🧰 Languages and Tools:
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![ShaderLab](https://img.shields.io/badge/ShaderLab-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
+![ShaderLab](https://img.shields.io/badge/ShaderLab-000000?style=for-the-badge&logo=unity&logoColor=white)  
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)  
 
 ---
 
@@ -40,8 +41,6 @@ A passionate engineer in XR23 from Bangladesh
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akifzaman&layout=compact&theme=default)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=akifzaman&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
-
 ---
 
 ### 📈 Contribution Graph
@@ -50,5 +49,5 @@ A passionate engineer in XR23 from Bangladesh
 
 ---
 
-**📫 Email:** akifzaman@gmail.com  
-**🌍 Location:** Bangladesh  
+**📫 Email:** akifzaman4040@gmail.com  
+**🌍 Location:** Dhaka, Bangladesh  
