@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## 👋 I'm Md. Akif Zaman
+## I'm Md. Akif Zaman 👨🏻‍💻
 
 A passionate **XR Developer** from Bangladesh, focused on building immersive experiences using cutting-edge technologies like AR, VR, and AI. I work extensively with **Unity**, **MediaPipe**, **8th Wall**, and other real-time platforms to bring interactive 3D applications to life.
 
@@ -9,7 +9,11 @@ A passionate **XR Developer** from Bangladesh, focused on building immersive exp
 
 ---
 
-### 🧑‍💻 Connect with me:
+### 🕵️‍♂️ ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=akifzaman.akifzaman&left_color=gray&right_color=blue)
+
+---
+
+### 🧲 Connect with me:
 
 <div style="display: flex; justify-content: center; gap: 15px; align-items: center; margin-top: 8px;">
   <a href="https://www.linkedin.com/in/md-akif-zaman-35740a162" target="_blank" rel="noopener noreferrer">
