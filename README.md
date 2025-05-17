@@ -13,7 +13,7 @@ A passionate engineer in XR23 from Bangladesh
 
 ### 🧑‍💻 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-link-here)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/md-akif-zaman-35740a162)
 [![Facebook](https://img.shields.io/badge/Facebook-blue?style=flat&logo=facebook)](https://facebook.com/your-link-here)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter)](https://twitter.com/your-link-here)
 [![Medium](https://img.shields.io/badge/Medium-black?style=flat&logo=medium)](https://medium.com/@your-link-here)
