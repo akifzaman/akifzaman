@@ -57,9 +57,9 @@ A passionate **XR Developer** from Bangladesh, focused on building immersive exp
 
 ### 📊 GitHub Stats
 
-![Md. Akif Zaman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akifzaman&show_icons=true&theme=default)
+![Md. Akif Zaman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akifzaman&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akifzaman&layout=compact&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akifzaman&layout=compact&theme=radical)
 
 ---
 
